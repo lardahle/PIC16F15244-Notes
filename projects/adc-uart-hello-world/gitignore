@@ -1,0 +1,10 @@
+# MPLAB X build artifacts — regenerated on every compile
+build/
+debug/
+dist/
+
+# MPLAB X machine-specific project state (not portable between machines)
+nbproject/private/
+
+# MCC autosave noise (keep the generated-success manifest, ditch the autosave)
+mcc-manifest-autosave.yml
